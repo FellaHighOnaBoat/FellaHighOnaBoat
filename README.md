@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![FellaHighOnaBoats's github stats](https://github-readme-stats.vercel.app/api?username=FellaHighOnaBoats&show_icons=true&theme=radical)
+![FellaHighOnaBoats's github stats](https://github-readme-stats.vercel.app/api?username=FellaHighOnaBoat&show_icons=true&theme=radical)
